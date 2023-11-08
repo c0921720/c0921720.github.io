@@ -1,0 +1,126 @@
+
+/* Styling body components*/
+
+body, h1, h3, p {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #f2f2f2;
+
+    
+}
+/* styling navigation */
+
+.navpage {
+   
+  background-size: cover; 
+  background-position: center; 
+  color: #fff;
+  text-align: center;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.navpage a {
+  text-decoration: none;
+  color: black;
+  margin: 0 10px;
+}
+
+/* Styling header inside navigation menu*/
+
+header {
+  font-size: 20px;
+}
+
+/* Styling main content */
+
+#intro {
+  text-align: center;
+  padding: 30px;
+}
+
+#intro img {
+  max-width: 100%;
+  height: auto;
+}
+
+h1 {
+  font-size: 45px;
+  margin-top: 20px;
+  color: #064a1b;
+}
+
+h3 {
+  font-size: 30px;
+  margin-top: 10px;
+  color: #064a1b;
+  padding-bottom: 10%;
+}
+
+/* Style the footer */
+
+footer {
+  color: black;
+  text-align: center;
+  padding: 10px;
+  font-family: Arial, sans-serif;
+}
+
+footer a {
+  color:black;
+  text-decoration: none;
+}
+
+footer a:hover {
+  text-decoration: underline;
+}
+
+/* stling description of product1*/
+
+.desc {
+  background-color: #f0f0f0; 
+  padding: 20px; 
+  margin: 20px 0; 
+  border: 1px solid #ddd; 
+  text-align: center;
+}
+
+.desc p {
+  font-size: 20px; 
+  line-height: 1.5; 
+  color: #333; 
+}
+
+.desc h4{
+  font-size: larger;
+}
+
+.desc img {
+  vertical-align: middle;
+}
+/*Styling description of product2*/
+
+.nextpro {
+  background-color: #f0f0f0; 
+  padding: 20px; 
+  margin: 20px 0; 
+  border: 1px solid #ddd; 
+  text-align: center;
+}
+
+.nextpro p {
+  font-size: 20px; 
+  line-height: 1.5; 
+  color: #333; 
+  }
+
+  .nextpro h4{
+    font-size: larger;
+  }
+  .items{
+   text-align: center;
+   text-shadow: #333;
+  }
